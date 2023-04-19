@@ -1,0 +1,162 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.github{
+    margin-top: 10px;
+    height: 25px;
+    margin-right: 2px;
+    clear: both;
+}
+.pai {
+    width: 60%;
+    font-family: 'Segoe UI', sans-serif;
+   
+}
+.limpar{
+    clear: both;
+}
+.topo {
+    height: 80px;
+    background-color: rgb(84, 29, 173);
+    color: white;
+    text-align: center;
+}
+
+.topo span {
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.topo a {
+    color: white;
+    text-decoration: none;
+}
+
+.perfil {
+    height: 200px;
+    border-bottom: 2px solid;
+}
+
+.dados h2 {
+    padding-top: 70px;
+    font-size: 30px;
+}
+
+.dados p {
+    font-size: 24px;
+}
+
+.dados {
+    float: left;
+    height: 100px;
+    width: 60%;
+    text-align: right;
+
+}
+
+.foto {
+    float: left;
+    height: 100%;
+    width: 40%;
+}
+
+.foto img {
+    margin-left: 15px;
+    margin-top: 25px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.exper {
+    width: 70%;
+    float: left;
+    padding-left: 10px;
+    border-right: 2px solid;
+
+}
+
+.exper h2 {
+    text-decoration: underline;
+}
+
+.exper h3 {
+    padding-top: 10px;
+}
+.principal{
+    border-bottom: 2px solid;
+}
+.exper p {
+    text-align: justify;
+    padding-right: 10px;
+}
+
+.exper3, p {
+    padding-left: 10px;
+}
+.tech {
+    width: 30%;
+    float: right;
+    padding-left: 10px;
+}
+.tech {
+    width: 30%;
+    float: left;
+    
+}
+
+.tech h2 {
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.tech p{
+    float: left;
+    width: 50%;
+    clear: both;
+    padding-bottom: 5px;
+}
+
+.circulo{
+    float: right;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color:rgb(84, 29, 173);
+    padding-right: 5px;
+    margin-right: 5px;
+}
+
+.educacao h1{
+    text-decoration: underline;
+    font-size: 25px;
+    padding-left: 10px;
+  
+}
+.educacao {
+   border-top: 2px solid;
+    padding-left: 10px
+   
+}
+.educacao h2{
+
+    text-decoration: underline;
+    margin-bottom: 20px;
+    
+}
+.educacao2 {
+    text-decoration: underline;
+}
+.educacao h3, .educacao p{
+    padding-left: 10px;
+}
+
+.educacao p{
+    margin-bottom: 15px;
+    text-align: justify;
+    
+}

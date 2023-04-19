@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    font-weight: normal;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+body{
+    background-color: rgb(240,240,240);
+}
+
+.header {
+    height: 100px;
+    color: white;
+    background-color: #162E58;
+    
+}
+
+.header h1 {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.header h2 {
+    text-align: center;
+    margin-top: 40px;
+}
+/* (0.1) Dividir a página em divs, uma classe para cada sessão. */
+
+
+/* (0.1) Inserir duas tabelas (grupo A e Grupo B). Colocar imagem dos clubes.
+*/
+.grupos .gols{
+    width: 50px; 
+    margin: 0 auto;
+    font-size: 14px;
+    background-color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+th, td {
+    border-top: 0.5px solid #70757a;
+}
+
+th {
+    color: #70757a;
+    border-top: none;
+}
+
+.grupos h3 {
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.left {
+    text-align: left;
+}
+
+.img-club {
+    width: 24px;
+    height: 24px;
+}
+
+.bl-blue {
+    border-left: 3px solid #4285F4;
+    ;
+
+}
+
+.b1-orange {
+    border-left: 3px solid #FA7B17;
+}
+
+.w200 {
+    width: 280px;
+    clear: both;
+
+}
+/*
+(0.1) Inserir uma tabela para gols (top 5). Colocar imagem dos jogadores.*/
+
+.img-jogador{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+
+.w40{
+    width: 40px;
+}
+
+.gols img{
+    margin-right: 10px;
+}
+
+.gols h3{
+    padding-top: 20px;
+    background-color: #162E58;
+    color: white;
+   
+}
+
